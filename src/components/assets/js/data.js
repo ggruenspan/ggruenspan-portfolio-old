@@ -46,7 +46,7 @@ export const jobs = [
     style: 0,
     color: "lightgray",
     title: "Service Technician",
-    when: "April 2021 - November 2022",
+    when: "April 2021 - October 2022",
     where: "Green Grass Lawn Sprinklers Ltd",
     desc: "Green Grass Lawn Sprinklers, is a company with an expertise in installation and servicing of professional sprinkler systems and landscape lighting.",
     acomp : [ {
